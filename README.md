@@ -1,5 +1,5 @@
 # CMPE277_Assignment 
-## ActivityLifeCycle
+## TorchApp
 **Student Name:** Bhavya Hegde <br>
 **Student ID:** 016605029 <br>
 **Course:** Smartphone Application Development <br>
